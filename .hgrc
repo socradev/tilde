@@ -1,0 +1,17 @@
+[auth]
+#Add any authentication settings
+#yourserver.prefix = hostname-that-will-trigger-this-config
+#yourserver.username = your-username-for-that-server
+#yourserver.password = your-password-for-that-server
+#yourserver.schemes = https
+
+[ui]
+username = Jeroen Oldenburger <jeroen@socradev.com>
+
+[extensions]
+progress =
+hgext.convert=
+
+[hostfingerprints]
+#add any host fingerprints to stop hg complaining
+#hostname-which-hg-complains-about = da:93:50:2c:db:c4:04:56:51:0b:1e:a8:0d:6c:c1:b4:a0:db:ec:5f
