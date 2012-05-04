@@ -16,8 +16,8 @@ export PATH
 # Aliases and auto completion
 # --------------------------------------------------------------------------- #
 
-alias ll='ls -alh --group-directories-first'
-alias l='ls -lh --group-directories-first'
+alias ll='ls -alhG'
+alias l='ls -lhG'
 
 # ssh autocompletion
 if [ -f ~/.ssh/config ]; then
