@@ -113,7 +113,7 @@ ${PYTHON_VIRTUALENV}${GREEN}\u@\h ${YELLOW}\w${COLOR_NONE} ${BRANCH}
 ${PROMPT_SYMBOL} "
 }
 
-set_bash_prompt()
+set_bash_prompt
 
 # --------------------------------------------------------------------------- #
 # VirtualEnv wrapper
